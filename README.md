@@ -16,3 +16,4 @@
 
 ##
 
+![Snake animation](https://github.com/Pedro-Balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
