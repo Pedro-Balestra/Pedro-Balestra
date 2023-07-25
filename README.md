@@ -16,4 +16,4 @@
 
 ##
 
-![snake gif](https://github.com/Pedro-Balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedro-balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
