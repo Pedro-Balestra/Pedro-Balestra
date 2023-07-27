@@ -1,8 +1,8 @@
 ## Ola sou o Pedro Balestra!
 <div align="center">
   <a href="https://github.com/Pedro-Balestra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-balestra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-balestra&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Balestra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Balestra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,4 +16,4 @@
 
 ##
 
-![snake gif](https://github.com/pedro-balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pedro-Balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
