@@ -19,7 +19,6 @@
 ##
 
 <img alt="Snake animation" src="https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/output/github-contribution-grid-snake.svg" />
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/output/github-contribution-grid-snake.gif" />
 
 
 
