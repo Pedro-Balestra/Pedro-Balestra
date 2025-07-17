@@ -27,16 +27,14 @@ jobs:
         uses: actions/checkout@v3
     
       - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
+        uses: Platane/snk/svg-only@fork-add-background
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
           color_snake: '#00FFAA'
-          color_dots: '#292929,#333333,#444444,#666666,#999999'
-
+          color_dots: '#222222,#333333,#444444,#666666,#888888'
+          background: '#0d1117' # <-- Cor de fundo escuro do GitHub
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
