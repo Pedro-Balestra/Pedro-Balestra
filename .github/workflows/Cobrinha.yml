@@ -31,9 +31,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |     
-            dist/github-contribution-grid-snake.gif
+          outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+          color_snake: '#00FFAA'
+          color_dots: '#292929,#333333,#444444,#666666,#999999'
+
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
