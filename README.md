@@ -18,7 +18,7 @@
 
 ##
 
-![Snake animation](https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.gif)
-![Snake animation](https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Pedro-Balestra/Pedro-Balestra/output/github-contribution-grid-snake.svg)
 
 
